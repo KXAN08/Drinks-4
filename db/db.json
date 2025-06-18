@@ -1,0 +1,37 @@
+{
+  "drinks": [
+    {
+      "id": "bc4f",
+      "title": "Cola ",
+      "company_name": "nl",
+      "price": 7000,
+      "volume": "1",
+      "type": "gazli",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fuzum.uz%2Fru%2Fproduct%2Fgazirovannyj-napitok-cocacola-classic-15-l-112101&psig=AOvVaw2YmpiQlFCGgujigZ0vhgy8&ust=1750305849673000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDut8WL-o0DFQAAAAAdAAAAABAE"
+    },
+    {
+      "id": "8102",
+      "title": "cocacola ",
+      "company_name": "sprite ",
+      "price": 11000,
+      "volume": "1",
+      "type": "gazli",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fuzum.uz%2Fru%2Fproduct%2Fgazirovannyj-napitok-cocacola-classic-15-l-112101&psig=AOvVaw2YmpiQlFCGgujigZ0vhgy8&ust=1750305849673000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDut8WL-o0DFQAAAAAdAAAAABAE"
+    },
+    {
+      "id": "1e71",
+      "title": "sprayt",
+      "company_name": "cocacola",
+      "price": 8000,
+      "volume": "1",
+      "type": "gazli",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fuzum.uz%2Fru%2Fproduct%2Fgazirovannyj-napitok-cocacola-classic-15-l-112101&psig=AOvVaw2YmpiQlFCGgujigZ0vhgy8&ust=1750305849673000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDut8WL-o0DFQAAAAAdAAAAABAE"
+    }
+  ],
+  "fruits": [],
+  "posts": [],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
